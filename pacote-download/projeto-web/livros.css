@@ -1,0 +1,84 @@
+body{
+  background-color: #ffffff;
+  font-family: sans-serif;
+  color:#ffffff;
+}
+.title {
+  color: #D6B699;
+}
+.text {
+  color: black;
+}
+.sec_div{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 30px;
+}
+.link{
+  text-decoration: none;
+  font-size: 4.5mm;
+  margin-left: 70px;
+  color: white;
+  margin-right: 30px;
+  font-family: 'Roboto', sans-serif;
+}
+.conteudo{
+  margin-top: 30px;
+  width: 50%;
+}
+h1, h2{
+  font-size: 7mm;
+  font-family: sans-serif;
+}
+.texto{
+  box-align: right;
+  margin-right: 170px;
+  font-size: 5mm;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  text-align: justify;
+}
+#links{
+  background-color: #D6B699;
+  padding: 19px;
+  text-align: right;
+}
+ #cadas{  
+   padding: 7px; 
+   background-color: #D6B699;
+   border-radius: 9px;
+ }
+.ini{
+  color: #D6B699;
+  font-family: sans-serif;
+  font-size: 4.2mm;
+  margin-left: 10px;
+}
+.nome{
+  margin-top: 55px;
+  font-size: 10mm;
+  color: #2B1F13;
+  margin-left: 170px;
+  font-family: sans-serif;
+  text-shadow: 1px 2px 3px #dedede;
+}
+.rodape{
+  background-color: #D6B699;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 50px;
+}
+.art_sec{
+  width: 50%;
+  margin-bottom: 20px;
+  text-shadow: 1px 2px 2px #D6B699;
+}
+#nome1{
+  margin-top: 55px;
+  font-size: 10mm;
+  color: #ffff;
+  margin-left: 90px;
+  font-family: sans-serif;
+}

@@ -1,0 +1,81 @@
+#caixa{
+  margin-left: 37%;
+  margin-right: 37%;
+  margin-top: 50px;
+  font-family: sans-serif;
+  border-radius: 10px;
+  background-color: #D6B699;
+  color: #2B1F13;
+}
+h1{
+  font-size: 4.6mm;
+}
+
+#texto{
+  margin-left: 25px;
+  margin-right: 25px;
+  padding-top: 30px;
+  padding-bottom: 40px;
+}
+
+button{
+  background-color: #D6B699;
+  color: #2B1F13;
+  font-size: 4mm;
+  border-radius: 8px;
+  border-color: #D6B699;
+  padding: 7px;
+  box-align: center;
+  margin-left: 123px;
+  margin-top: 25px;
+}
+#links{
+  background-color:#D6B699;
+  padding: 19px;
+  text-align: right;
+}
+.link{
+  text-decoration: none;
+  font-size: 4.5mm;
+  margin-left: 70px;
+  color: #2B1F13;
+  margin-right: 30px;
+  font-family: sans-serif;
+}
+ #cadas{  
+   padding: 7px; 
+   background-color:#D6B699;
+   border-radius: 9px;
+ }
+.ini{
+  color:#2B1F13;
+  font-family: sans-serif;
+  font-size: 4.2mm;
+  margin-left: 10px;
+}
+.nome{
+  margin-top: 55px;
+  font-size: 10mm;
+  color:#2B1F13;
+  margin-left: 170px;
+  font-family: sans-serif;
+  text-shadow: 1px 2px 3px  #D6B699;
+}
+.rodape{
+  background-color: #D6B699;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 50px;
+}
+.art_sec{
+  width: 50%;
+  margin-bottom: 20px;
+  text-shadow: 1px 2px 2px #D6B699;
+}
+#nome1{
+  margin-top: 55px;
+  font-size: 10mm;
+  color:#2B1F13;
+  margin-left: 90px;
+  font-family: sans-serif;
+}
